@@ -1,0 +1,8 @@
+a,
+body {
+  all: unset;
+}
+.navigation {
+  background-color: #3f5f91;
+  width: 100%;
+}
